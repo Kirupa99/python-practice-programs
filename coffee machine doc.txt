@@ -1,0 +1,8 @@
+This program creates a coffee machine that is going to perform the following actions from the user end:
+
+1.Show menu
+2.Take an order
+3.Check resources from the user (number of sugar cubes)
+cost of 1 sugar cube = 0.20 £
+4.Total the bill and Display it.
+
